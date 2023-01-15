@@ -1,0 +1,3 @@
+This code is a file converter program that allows the user to select a text, PDF, or Word file and convert it to an MP3 audio file. 
+It uses the Tkinter library for the GUI, the filedialog module for selecting the file, PyPDF2 for reading PDF files, docx for reading Word files, and pyttsx3 for converting the text to speech and saving it as an MP3 file. The program has two buttons, one for selecting the file and one for converting it to an MP3. 
+The selected file's name is displayed on the screen and the converted MP3 file is saved in the current directory with the same name as the original file.
